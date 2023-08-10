@@ -1,0 +1,148 @@
+body {
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    background-color: #181818;
+}
+
+#modal {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 12px;
+    border: 2px solid #9a9a9a;
+    background-color: #424242;
+    width: 80%;
+    max-width: 1100px;
+    height: 55vh;
+    position: fixed;
+    top: 18%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 9999;
+}
+
+#modal h1 {
+    color: #e6e600;
+    font-weight: bolder;
+    background-color: transparent;
+}
+
+#modal p {
+    width: 85%;
+    max-width: 850px;
+    color: #66ff66;
+    background-color: transparent;
+}
+
+#modal button {
+    border-radius: 20px;
+    border: 1px #5a5a5a solid;
+    background-color: #333333;
+    color: #ffffff;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bolder;
+    font-size: 20px;
+    width: 250px;
+    height: 60px;
+    margin-top: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 850px;
+    background-color: #181818;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70px;
+    font-size: 35px;
+    color: #ffffff;
+    margin-bottom: 4px;
+}
+
+table {
+    border: 3px;
+    margin: 0;
+    color: #c0c0c0;
+}
+
+input {
+    width: 30px;
+    height: 30px;
+    margin: 0;
+    text-align: center;
+    border-color: #9a9a9a;
+    outline: none;
+    border-radius: 12px;
+    background-color: #202020;
+    color: #ffffff;
+    box-shadow: 1px 5px 5px #555555;
+}
+
+td {
+    text-align: center;
+    width: 20px;
+    height: 20px;
+    margin: 0;
+    background-color: transparent;
+}
+
+tr {
+    margin: 0;
+}
+
+.informacoes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+    height: 700px;
+    background-color: #181818;
+    color: #e0e0e0;
+}
+
+.informacoes b {
+    color: #ff6666;
+    background-color: transparent;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+    #modal {
+        width: 90%;
+        top: 10%;
+    }
+
+    #modal p {
+        font-size: 18px;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    .informacoes {
+        width: 90%;
+        height: auto;
+    }
+}
+
+@media (max-width: 480px) {
+    #modal button {
+        width: 200px;
+        height: 50px;
+        font-size: 18px;
+    }
+}
