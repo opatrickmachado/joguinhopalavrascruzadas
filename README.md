@@ -1,10 +1,10 @@
 <h1 align="center">Joguinho Palavras Cruzadas</h1>
 
-<p align="center">
-  <img src="./img/palavras-cruzadas.png" alt="Logo do Joguinho Palavras Cruzadas" />
-</p>
-
 https://joguinhopalavrascruzadas.vercel.app//
+
+<p align="center">
+  <strong>Um desafio de palavras cruzadas com temas de hardware de computador.</strong>
+</p>
 
 <p align="center">
   <a href="#sobre-o-projeto">Sobre o Projeto</a> •
