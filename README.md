@@ -1,56 +1,33 @@
-<h1 align="center">Joguinho Palavras Cruzadas</h1>
+# Joguinho Palavras Cruzadas
 
-<p align="center">https://joguinhopalavrascruzadas.vercel.app//
-</p>
+![Joguinho Palavras Cruzadas](https://meusjoguinhos.vercel.app/img/JoguinhoPalavrasCruzadas.png)
 
-<p align="center">
-  <strong>Um desafio de palavras cruzadas com temas de hardware de computador.</strong>
-</p>
+Bem-vindo ao "Joguinho Palavras Cruzadas", um desafio de palavras cruzadas relacionado ao mundo da tecnologia e hardware de computadores!
 
-<p align="center">
-  <a href="#sobre-o-projeto">Sobre o Projeto</a> •
-  <a href="#como-jogar">Como Jogar</a> •
-  <a href="#funcionalidades">Funcionalidades</a> •
-  <a href="#arquivos-e-estrutura">Arquivos e Estrutura</a> •
-  <a href="#dependências">Dependências</a> •
-  <a href="#créditos">Créditos</a> •
-  <a href="#licença">Licença</a>
-</p>
+## Visão Geral
 
-## Sobre o Projeto
-
-O "Joguinho Palavras Cruzadas" é um jogo de palavras cruzadas desenvolvido para desafiar o seu conhecimento em termos de hardware de computador. Os jogadores precisam preencher a grade de palavras cruzadas com as letras corretas para formar as palavras relacionadas ao tema. O jogo é construído utilizando HTML, CSS e JavaScript.
+O "Joguinho Palavras Cruzadas" é um jogo interativo de palavras cruzadas que testa o seu conhecimento sobre termos e conceitos relacionados ao hardware de computadores. Preencha os espaços em branco com as letras corretas para descobrir as palavras-chave e desafie-se enquanto aprende!
 
 ## Como Jogar
 
-1. Abra o arquivo `index.html` em um navegador da web.
-2. Você será recebido com uma janela modal contendo as instruções do jogo. Clique no botão "Vamos começar!" para iniciar.
-3. A grade de palavras cruzadas será exibida, e você pode começar a inserir letras nas células.
-4. Preste atenção nas dicas numeradas no lado direito da grade. Essas dicas correspondem às palavras que você precisa completar.
-5. Conforme você digita as letras corretas, a grade será atualizada, e você verá o seu progresso.
-6. Continue preenchendo a grade até que todas as palavras estejam completas!
+1. Acesse o jogo através do seguinte link: [Joguinho Palavras Cruzadas](https://joguinhopalavrascruzadas.vercel.app/).
+2. Leia as dicas para cada espaço em branco e tente preencher as letras corretas para formar as palavras-chave relacionadas ao hardware de computadores.
+3. Utilize letras maiúsculas ao preencher as respostas nos espaços em branco.
+4. Teste o seu conhecimento e veja quantas palavras você consegue decifrar!
+5. Divirta-se explorando o mundo da tecnologia enquanto resolve as palavras cruzadas.
 
-## Funcionalidades
+## Tecnologias Utilizadas
 
--   Grade de palavras cruzadas com células interativas para inserir letras.
--   Dicas numeradas para orientar os jogadores na conclusão das palavras.
--   Instruções do jogo fornecidas em uma janela modal.
--   Estilização e layout alcançados com CSS.
--   Uso do Google Fonts para tipografia.
--   Ícone personalizado para a guia do navegador (favicon).
+-   HTML5
+-   CSS
+-   JavaScript
 
-## Arquivos e Estrutura
+## Como Contribuir
 
--   `index.html`: O arquivo HTML principal contendo a grade de palavras cruzadas, instruções do jogo e modal.
--   `style.css`: O arquivo CSS para estilização da grade de palavras cruzadas e layout.
--   `Script.js`: O arquivo JavaScript contendo as funções para interação com a grade de palavras cruzadas.
+Se você deseja contribuir para este projeto, siga os passos abaixo:
 
-## Dependências
-
--   Google Fonts: A fonte Raleway é utilizada para a tipografia no jogo.
-
-## Aviso
-
-Este projeto é destinado para fins educacionais e de entretenimento. A grade de palavras cruzadas e seu conteúdo são baseados em termos de hardware de computador. O objetivo do projeto é proporcionar uma maneira envolvente de aprender e reforçar esses termos de forma divertida e interativa.
-
-Sinta-se à vontade para explorar, modificar e compartilhar este projeto com outras pessoas! Divirta-se jogando e aprendendo com o "Joguinho Palavras Cruzadas". Se você tiver alguma dúvida ou feedback, não hesite em nos contatar. Divirta-se!
+1. Faça um fork deste repositório.
+2. Clone o seu fork para o seu ambiente local.
+3. Faça as modificações desejadas.
+4. Faça um commit das suas alterações.
+5. Envie um pull request para este repositório.
