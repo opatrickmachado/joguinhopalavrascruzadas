@@ -1,6 +1,7 @@
 <h1 align="center">Joguinho Palavras Cruzadas</h1>
 
-https://joguinhopalavrascruzadas.vercel.app//
+<p align="center">https://joguinhopalavrascruzadas.vercel.app//
+</p>
 
 <p align="center">
   <strong>Um desafio de palavras cruzadas com temas de hardware de computador.</strong>
