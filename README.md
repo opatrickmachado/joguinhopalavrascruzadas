@@ -4,9 +4,7 @@
   <img src="./img/palavras-cruzadas.png" alt="Logo do Joguinho Palavras Cruzadas" />
 </p>
 
-<p align="center">
-  <strong>Um desafio de palavras cruzadas com temas de hardware de computador.</strong>
-</p>
+https://joguinhopalavrascruzadas.vercel.app//
 
 <p align="center">
   <a href="#sobre-o-projeto">Sobre o Projeto</a> •
